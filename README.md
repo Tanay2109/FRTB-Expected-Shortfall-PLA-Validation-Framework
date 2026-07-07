@@ -1,4 +1,4 @@
-# FRTB-Expected-Shortfall-PLA-Validation-Framework
+# FRTB Expected Shortfall and PLA Validation Framework
 
 A Python implementation of an FRTB Internal Models Approach (IMA) risk engine, built to calculate regulatory Expected Shortfall for a multi-asset equity portfolio and validate desk eligibility through P&L Attribution testing.
  
